@@ -1,0 +1,11 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+  <!-- Форма щита -->
+  <path d="M24 4L8 10V22C8 33.2 14.9 42.8 24 45C33.1 42.8 40 33.2 40 22V10L24 4Z"
+        fill="none" stroke="#7B68EE" stroke-width="2" stroke-linejoin="round"/>
+  
+  <!-- Глобус внутри -->
+  <circle cx="24" cy="23" r="8" stroke="#7B68EE" stroke-width="2"/>
+  <path d="M16 23H32M24 15V31M20 17C22 20 22 26 20 29M28 17C26 20 26 26 28 29"
+        stroke="#7B68EE" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
